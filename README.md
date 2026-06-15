@@ -1,4 +1,4 @@
-# 🏰 Kingdom Tower Defense
+#  Kingdom Tower Defense
 
 Unity 2022.3 LTS ile yapılmış 2D Tower Defense oyunu.
 
@@ -16,9 +16,9 @@ Her kule 3. seviyeye kadar geliştirilebilir (hasar x1.5, menzil +0.3).
 ### Düşmanlar
 | Düşman | Can | Hız | Ödül | Özellik |
 |--------|-----|-----|------|---------|
-| 🔴 Normal | 80+ | 2 | 10G | Dengeli |
-| 🟡 Hızlı | 40+ | 4 | 8G | Kırılgan ama hızlı |
-| 🔵 Tank | 250+ | 1 | 25G | Yavaş ama çok sağlam, 2 can götürür |
+|  Normal | 80+ | 2 | 10G | Dengeli |
+|  Hızlı | 40+ | 4 | 8G | Kırılgan ama hızlı |
+|  Tank | 250+ | 1 | 25G | Yavaş ama çok sağlam, 2 can götürür |
 
 > Her dalgada düşmanların canı artar. 3. dalgadan itibaren karışık düşmanlar gelir.
 
@@ -46,7 +46,7 @@ Her kule 3. seviyeye kadar geliştirilebilir (hasar x1.5, menzil +0.3).
 
 6. Inspector'da **Add Component** → `SceneBuilder` ekleyin
 
-7. ▶️ **Play** tuşuna basın — oyun otomatik kurulur!
+7.  **Play** tuşuna basın — oyun otomatik kurulur!
 
 ---
 
