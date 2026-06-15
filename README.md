@@ -7,9 +7,9 @@ Unity 2022.3 LTS ile yapılmış 2D Tower Defense oyunu.
 ### Kuleler
 | Kule | Maliyet | Hasar | Menzil | Hız | Özellik |
 |------|---------|-------|--------|-----|---------|
-| 🏹 Okçu | 50G | 25 | 3.5 | Hızlı | Tek hedef |
-| 🔮 Büyücü | 80G | 40 | 3.0 | Orta | Alan hasarı (splash) |
-| ⚔️ Şövalye | 100G | 35 | 1.2 | Çok Hızlı | Yakın alan hasarı |
+|  Okçu | 50G | 25 | 3.5 | Hızlı | Tek hedef |
+|  Büyücü | 80G | 40 | 3.0 | Orta | Alan hasarı (splash) |
+|  Şövalye | 100G | 35 | 1.2 | Çok Hızlı | Yakın alan hasarı |
 
 Her kule 3. seviyeye kadar geliştirilebilir (hasar x1.5, menzil +0.3).
 
